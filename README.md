@@ -1,2 +1,2 @@
 # Hackkerank_algorithm_practice
-Solutions to solved algorithms on hackkerank.com
+Solutions to solved practice algorithms on hackkerank.com
